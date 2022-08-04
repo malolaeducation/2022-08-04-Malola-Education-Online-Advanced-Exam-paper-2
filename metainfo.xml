@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="ADD1BB3C-DFBF-4B60-9DCC-2D6F16A1190D" version="0">
+	<info>
+		<title>2022-08-04 Malola Education Online Advanced Exam paper-2</title>
+		<description/>
+	</info>
+	<files index="id55" thumbnail="id51" totalSize="4405759">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-019ed3f1cd14e203bc38bed3c60b2d903142b934.PNG</file>
+		<file id="id12">data/images/img-0677477e97dd55a577134b60b5af5c1c23526004.PNG</file>
+		<file id="id13">data/images/img-0ae3ee1a93af20ffaeeef5586f0e50da4095c670.PNG</file>
+		<file id="id14">data/images/img-0c5fbe91c889a90a85ff265432660366b6b7a021.PNG</file>
+		<file id="id15">data/images/img-1f22ac62997497d0059a1835c33d2f60afbffefc.PNG</file>
+		<file id="id16">data/images/img-1fe403ee8edad4000f15d67fadcb227c092e8bed.PNG</file>
+		<file id="id17">data/images/img-22968be6a78f7e10daa2e79e6b05a09bef231fe6.PNG</file>
+		<file id="id18">data/images/img-25d7b6b5a2b05b2f976dcaff3b99d7ccae9e5b45.PNG</file>
+		<file id="id19">data/images/img-2612fca387e9f39ec22be062e026bf14ba1baa6e.PNG</file>
+		<file id="id20">data/images/img-295a58263a06f1b9d05d9753365c04fd7becda3f.PNG</file>
+		<file id="id21">data/images/img-2af1b9e6e404679835212888dfe1b20d02c7818b.PNG</file>
+		<file id="id22">data/images/img-33f77525c6edfbcf40bda58b3bfca262f60b29f9.PNG</file>
+		<file id="id23">data/images/img-3821ada182bdc6c9542f988a6d5018504679c1f5.PNG</file>
+		<file id="id24">data/images/img-3ab5df8eee97e9cfa05f9f2f2b88cdefb738ad55.PNG</file>
+		<file id="id25">data/images/img-3b3df232178ed6ab366df448c8b22c82381fb833.PNG</file>
+		<file id="id26">data/images/img-3e5a2fd2551f59ad84dcd5178f1fd7564d9eff7e.PNG</file>
+		<file id="id27">data/images/img-46cbf86ce2a06b63e1bd4ae3592467c78474a625.PNG</file>
+		<file id="id28">data/images/img-6692654bcfcdcc86255ffa86ef4e7ae187906c00.PNG</file>
+		<file id="id29">data/images/img-727612cb125f6fabbd40495e32819fb3ab5ed450.PNG</file>
+		<file id="id30">data/images/img-7354489217235da9adf16b9a8cc7ded61733cc82.jpg</file>
+		<file id="id31">data/images/img-7bcbee32668df22978c5e460b25d7e0a9acdd63f.PNG</file>
+		<file id="id32">data/images/img-7c88b82e668bd8f85fe791bc238e9adf90f6fbae.PNG</file>
+		<file id="id33">data/images/img-8b13863b6e9fe0c8a8ec83c2d5aefbe3613e8e1f.PNG</file>
+		<file id="id34">data/images/img-8e258eb8d56ca07b8e709f292cf55fb700c12396.PNG</file>
+		<file id="id35">data/images/img-8f901f8f26e900913c37f0fa465b0cdc2d890b6d.PNG</file>
+		<file id="id36">data/images/img-993eaed0ed71e4c7c7b05bba3d5dfcee01e6e96d.PNG</file>
+		<file id="id37">data/images/img-bcf7e6ca25fd5775259fc79178738aba0569bf3a.PNG</file>
+		<file id="id38">data/images/img-c5128c2e63514ff9e8bd014e729e3a0a483cea9c.PNG</file>
+		<file id="id39">data/images/img-ce14885d09a0896e1a1958bf93afa6acd8ad9cb7.PNG</file>
+		<file id="id40">data/images/img-cfacb14bfc56321b59951ccd8db298626edc64e1.PNG</file>
+		<file id="id41">data/images/img-cfadc5ac277e9e998843e6e1c88436b61cb0be0c.PNG</file>
+		<file id="id42">data/images/img-dcfb5ad7bbf1cfb6f8eb95089e47997348c8d0a6.PNG</file>
+		<file id="id43">data/images/img-df32fb8dc04ad97414c7e549fb35ac8f86308b00.PNG</file>
+		<file id="id44">data/images/img-e46666361bfe7f1499598a8bc2eebee0841fa217.PNG</file>
+		<file id="id45">data/images/img-e9db74b31d83351650e5f105b93729e4897badfc.PNG</file>
+		<file id="id46">data/images/img-f1eca13fafcff08059c4c22e1a7a03b5522a0646.PNG</file>
+		<file id="id47">data/images/img-fc7355fa41c0f6908ff6c9aee0b426db5ced950f.PNG</file>
+		<file id="id48">data/images/img-fe7c5dcfec2864916d3b75102c6f1b2ae559d8c4.PNG</file>
+		<file id="id49">data/ismplayer/app_store2x.png</file>
+		<file id="id50">data/ismplayer/play.svg</file>
+		<file id="id51">data/ismplayer/preview.png</file>
+		<file id="id52">data/ismplayer/style.css</file>
+		<file id="id53">data/ismplayer/style_mini.css</file>
+		<file id="id54">data/player.js</file>
+		<file id="id55">index.html</file>
+		<file id="id56">ismplayer.html</file>
+		<file id="id57">preview.png</file>
+	</files>
+</presentation>
+
